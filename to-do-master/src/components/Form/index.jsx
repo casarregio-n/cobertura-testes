@@ -30,7 +30,7 @@ export default function Form({ tasks, setTasks, updateLocalStorage }) {
         type="text"
         placeholder="Adicione uma tarefa"
       />
-      <Button type="submit">Adicionar</Button>
+      <Button type="submit">Adicionar tarefa</Button>
     </form>
   );
 }
